@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy   
+## sfc2013-design-strategy    
 This document is made by [gitfab](http://gitfab.org)
 ---
 #動くマウス
@@ -32,4 +32,18 @@ This document is made by [gitfab](http://gitfab.org)
 最後にボンドで絶縁やら接着をして完成です。
 
 ![DSC00509.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00509.JPG)
+---
+#あとがき
+
+TAの人の暇つぶしです。
+
+
+サーボじゃなくてDCモータの方が良さ気。
+
+
+球に穴を開ける際に軸がずれると中途半端な動きになります。
+
+
+動画は何れ！
+
 ---
