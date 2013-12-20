@@ -7,6 +7,13 @@ This document is made by [gitfab](http://gitfab.org)
 「動く」マウスです。
 動きます。
 
+用意するものリスト<br>
+1.<a href="http://akizukidenshi.com/catalog/g/gM-01905/" target="_blank">サーボモータ PICO/STD/F</a><br>
+2. <a href="http://www.switch-science.com/catalog/663/" target="_blank">ATmega328P</a><br>
+3. 水晶発振子<br>
+4. セラミックコンデンサ<br>
+（<a href="http://www.switch-science.com/catalog/1414/" target="_blank">こちら</a>だと3,4を省略できて楽）<br>
+5. 抵抗器
 ![DSC00501.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00501.JPG)
 
 ネジ止め用の出っ張りを除去します。
