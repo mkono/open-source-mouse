@@ -8,12 +8,12 @@ This document is made by [gitfab](http://gitfab.org)
 動きます。
 
 用意するものリスト<br>
-1.<a href="http://akizukidenshi.com/catalog/g/gM-01905/" target="_blank">サーボモータ PICO/STD/F</a><br>
-2. <a href="http://www.switch-science.com/catalog/663/" target="_blank">ATmega328P</a><br>
-3. 水晶発振子<br>
-4. セラミックコンデンサ<br>
-（<a href="http://www.switch-science.com/catalog/1414/" target="_blank">こちら</a>だと3,4を省略できて楽）<br>
-5. 抵抗器
+1.<a href="http://akizukidenshi.com/catalog/g/gM-01905/">サーボモータ PICO/STD/F</a><br>
+2. <a href="http://www.switch-science.com/catalog/663/">ATmega328P</a><br>（<a href="http://www.switch-science.com/catalog/1414/">こちら</a>だと3,4を省略できて楽）<br>
+3. <a href="http://akizukidenshi.com/catalog/g/gP-00545/">水晶発信器(16MHz)</a><br>
+4. <a href="http://akizukidenshi.com/catalog/g/gP-03620/">セラミックコンデンサ 22pF</a><br>
+5. <a href="http://akizukidenshi.com/catalog/g/gR-25103/">抵抗器10kΩ</a><br>
+
 ![DSC00501.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00501.JPG)
 
 ネジ止め用の出っ張りを除去します。
@@ -28,7 +28,8 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![DSC00503.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00503.JPG)
 
-小型の自作arduinoを作ります。
+小型の自作arduinoを作ります。<br>
+<a href="https://sites.google.com/a/gclue.jp/android-docs-2009/zi-zuoarduinono-zuo-cheng">参考</a>
 
 ![DSC00504.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00504.JPG)
 
