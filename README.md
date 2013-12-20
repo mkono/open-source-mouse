@@ -29,6 +29,7 @@ This document is made by [gitfab](http://gitfab.org)
 ![DSC00503.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00503.JPG)
 
 小型の自作arduinoを作ります。<br>
+実際に半田付けする前にマイコンにArduinoのExamples>Servo>Sweepを書き込んでおきます。<br>
 <a href="https://sites.google.com/a/gclue.jp/android-docs-2009/zi-zuoarduinono-zuo-cheng">参考</a>
 
 ![DSC00504.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00504.JPG)
