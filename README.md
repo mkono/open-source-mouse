@@ -5,8 +5,13 @@ This document is made by [gitfab](http://gitfab.org)
 #動くマウス
 
 ・概要<br>
-「動く」マウスです。
-動きます。
+
+「動く」マウスです。<br>
+‘’マウス'’という名前は元々ネズミにその形状から似ているということから名付けられました。<br>
+ではポインティングデバイスとしてのマウスと生き物としてのマウスとではどこに一番大きな違いがあるのでしょうか。<br>
+ポインティングデバイスはユーザが手にとり、マウスは受動的に動かされます。<br>
+一方、生き物としてのマウスは人間とは独立し、自ら主体的に動きます。<br>
+ポインティングデバイスとしてのマウスが生き物かのように、人間の手から離れた状態で、自ら動き始めたら私達はこのデバイスを一体どのようなものとして捉えるのでしょうか。<br>
 
 ・用意するものリスト<br>
 1.<a href="http://akizukidenshi.com/catalog/g/gM-01905/">サーボモータ PICO/STD/F</a><br>
@@ -50,19 +55,23 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![DSC00509.JPG](https://raw.github.com/mkono/open-source-mouse/master/gitfab/resources/DSC00509.JPG)
 
+・動作<br>
+USBをさすと、マウスが左右に勝手に動きはじめます。<br>
+それに合わせて、画面内のマウスカーソルも動きます。
 
+![DSC00501.JPG](https://raw.github.com/mkono/open-source-mouse/living-mouse/gitfab/resources/DSC00501.JPG)
 ---
 #あとがき
 
-TAの人の暇つぶしです。
+TAの人の試作です。
 
 
-サーボじゃなくてDCモータの方が良さ気。
+サーボではなく、DCモータの方が良いかと思われます。
 
 
 球に穴を開ける際に軸がずれると中途半端な動きになります。
 
 
-動画は何れ！
+
 
 ---
